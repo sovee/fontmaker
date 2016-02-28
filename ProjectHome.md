@@ -1,0 +1,1 @@
+Convert TTF to pixel array lib,which used in mobilephone text diaplay
